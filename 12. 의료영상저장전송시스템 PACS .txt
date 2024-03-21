@@ -1,0 +1,4 @@
+-- 의료영상저장전송시스템 PACS
+
+--- 01. PACS(Picture Archiving and Communications System)의 개념
+	> 환자의 의료영상을 디지털로 획득/저장/전송/관리하는 정보시스템
